@@ -1,4 +1,4 @@
 package pageobjects.reports;
 
-public class ClassTimeTable {
+public class ClassTimetable {
 }
